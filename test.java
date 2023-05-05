@@ -1,1 +1,1 @@
-newly added text
+new text
