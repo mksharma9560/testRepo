@@ -1,1 +1,1 @@
-new text
+text in text.java
